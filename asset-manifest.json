@@ -1,15 +1,15 @@
 {
-  "main.css": "/shehroz22/my-app/static/css/main.be9cd952.chunk.css",
-  "main.js": "/shehroz22/my-app/static/js/main.33e5e85a.chunk.js",
-  "main.js.map": "/shehroz22/my-app/static/js/main.33e5e85a.chunk.js.map",
-  "runtime~main.js": "/shehroz22/my-app/static/js/runtime~main.23cac146.js",
-  "runtime~main.js.map": "/shehroz22/my-app/static/js/runtime~main.23cac146.js.map",
-  "static/js/2.8b9ca286.chunk.js": "/shehroz22/my-app/static/js/2.8b9ca286.chunk.js",
-  "static/js/2.8b9ca286.chunk.js.map": "/shehroz22/my-app/static/js/2.8b9ca286.chunk.js.map",
-  "static/js/3.987c3a98.chunk.js": "/shehroz22/my-app/static/js/3.987c3a98.chunk.js",
-  "static/js/3.987c3a98.chunk.js.map": "/shehroz22/my-app/static/js/3.987c3a98.chunk.js.map",
-  "index.html": "/shehroz22/my-app/index.html",
-  "precache-manifest.2fec9dcb7eaa6b77a62ebc34e68079e7.js": "/shehroz22/my-app/precache-manifest.2fec9dcb7eaa6b77a62ebc34e68079e7.js",
-  "service-worker.js": "/shehroz22/my-app/service-worker.js",
-  "static/css/main.be9cd952.chunk.css.map": "/shehroz22/my-app/static/css/main.be9cd952.chunk.css.map"
+  "main.css": "/static/css/main.be9cd952.chunk.css",
+  "main.js": "/static/js/main.33e5e85a.chunk.js",
+  "main.js.map": "/static/js/main.33e5e85a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.effab6bd.js",
+  "runtime~main.js.map": "/static/js/runtime~main.effab6bd.js.map",
+  "static/js/2.8b9ca286.chunk.js": "/static/js/2.8b9ca286.chunk.js",
+  "static/js/2.8b9ca286.chunk.js.map": "/static/js/2.8b9ca286.chunk.js.map",
+  "static/js/3.987c3a98.chunk.js": "/static/js/3.987c3a98.chunk.js",
+  "static/js/3.987c3a98.chunk.js.map": "/static/js/3.987c3a98.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.f077f1ee296e14d73c7ccaa9b0247389.js": "/precache-manifest.f077f1ee296e14d73c7ccaa9b0247389.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.be9cd952.chunk.css.map": "/static/css/main.be9cd952.chunk.css.map"
 }
